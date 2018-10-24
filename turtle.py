@@ -10,5 +10,6 @@ while x<500:     # This while loop is for stop making spirals so when x reaches 
    else:
          turtle.pencolor('green')  # if above 2 condition is false then it takes green color so with three colors it looks fantastic
    turtle.forward(x)
-   turtle.left(90.91)
    x=x+1
+   turtle.left(90.91)
+
